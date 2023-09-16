@@ -1,0 +1,25 @@
+---
+id: 10537981
+name: Return Soul
+type: Trap Card
+frameType: trap
+desc: Activate only during the End Phase. You can return up to 3 monsters destroyed
+  this turn from the Graveyard to their owners' Decks.
+race: Normal
+card_sets:
+- set_name: 'Duelist Pack: Zane Truesdale'
+  set_code: DP04-EN028
+  set_rarity: Super Rare
+  set_rarity_code: "(SR)"
+  set_price: '4.27'
+card_images:
+- id: 10537981
+  image_url: https://images.ygoprodeck.com/images/cards/10537981.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/10537981.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/10537981.jpg
+card_prices:
+- cardmarket_price: '0.13'
+  tcgplayer_price: '0.51'
+  ebay_price: '6.00'
+  amazon_price: '1.49'
+  coolstuffinc_price: '0.49'
